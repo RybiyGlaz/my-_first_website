@@ -9,7 +9,8 @@ git clone https://github.com/RybiyGlaz/my-_first_website
 cd my-_first_website
 ```
 2. Соберите Docker-образ:
-``` docker build -t my-_first_website .
+```
+docker build -t my-_first_website .
 ```
 3. Запустите контейнер
 ```
